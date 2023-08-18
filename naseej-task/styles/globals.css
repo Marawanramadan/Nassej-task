@@ -19,4 +19,5 @@
 
 label{
   cursor: pointer;
+  display: block;
 }
