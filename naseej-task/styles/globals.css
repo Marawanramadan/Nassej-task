@@ -1,0 +1,22 @@
+.highlight {
+  background-color: yellow;
+}
+
+.transparentInput {
+  position: absolute;
+  opacity: 0;
+  z-index: 10;
+  min-height: 30px;
+  width: 30%;
+}
+
+.content {
+  border: 1px solid black;
+  border-radius: 2px;
+  min-height: 30px;
+  max-width: 30%;
+}
+
+label{
+  cursor: pointer;
+}
